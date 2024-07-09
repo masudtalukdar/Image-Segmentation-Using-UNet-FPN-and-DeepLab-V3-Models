@@ -1,6 +1,6 @@
 # Image-Segmentation-Using-UNet-FPN-and-DeepLab-V3-Models
 
-Update the paths in the Jupyter notebook accordingly.
+Update the paths in the Jupyter Notebook.
 
 ## Models
 
