@@ -13,3 +13,8 @@ After downloading, extract the model files and place them in a directory. Update
 ## Dataset
 
 - [Dataset Download Link](https://drive.google.com/file/d/108BC3EEcT2eHhBj5gQUZfHE199nwQksc/view?usp=sharing)
+
+
+## Author's 
+MASUD TALUKDAR (VR510632)
+GULSHAN KUMAR (VR509655)
