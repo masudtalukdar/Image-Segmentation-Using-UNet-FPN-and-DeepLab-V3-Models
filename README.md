@@ -16,5 +16,7 @@ After downloading, extract the model files and place them in a directory. Update
 
 
 ## Author's 
-MASUD TALUKDAR (VR510632)
+MASUD TALUKDAR (VR510632) and
 GULSHAN KUMAR (VR509655)
+
+## University of Verona
